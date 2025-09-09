@@ -1,8 +1,7 @@
 DICOM 3D Viewer 🏥
 Show Image
 <img width="1907" height="1077" alt="Image" src="https://github.com/user-attachments/assets/3ed42b05-2bcc-4632-b380-3626fb7be3ac" />
-<img width="1907" height="1077" alt="Image" src="https://github.com/user-attachments/assets/3ed42b05-2bcc-4632-b380-3626fb7be3ac" />
-
+<img width="1672" height="1077" alt="Image" src="https://github.com/user-attachments/assets/72612579-625d-474f-9612-fd595d0f7f1f" />
 A professional DICOM 3D visualization and analysis tool built with Python, VTK, and PyQt5. Designed for medical professionals, researchers, and students to visualize, analyze, and manipulate medical imaging data with precision and ease.
 
 🎯 Overview
